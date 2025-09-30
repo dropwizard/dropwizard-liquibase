@@ -1,0 +1,16 @@
+target/
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Test files
+src/test/resources/test-db.mv.db
