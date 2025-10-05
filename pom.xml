@@ -22,14 +22,6 @@
         <h2.version>2.4.240</h2.version>
     </properties>
 
-    <developers>
-        <developer>
-            <id>j.schalanda</id>
-            <name>Jochen Schalanda</name>
-            <email>jochen@schalanda.name</email>
-        </developer>
-    </developers>
-
     <dependencies>
         <dependency>
             <groupId>io.dropwizard</groupId>
