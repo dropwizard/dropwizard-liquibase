@@ -8,7 +8,7 @@
     </parent>
 
     <artifactId>dropwizard-liquibase</artifactId>
-    <version>3.0.1</version>
+    <version>3.0.2-SNAPSHOT</version>
 
     <name>Dropwizard Liquibase</name>
     <description>Addon bundle for Dropwizard to support Liquibase for database migrations</description>
@@ -191,8 +191,4 @@
             </plugin>
         </plugins>
     </build>
-
-  <scm>
-    <tag>dropwizard-liquibase-3.0.1</tag>
-  </scm>
 </project>
