@@ -2,9 +2,10 @@
 name: Release
 # yamllint disable-line rule:truthy
 on:
+  workflow_dispatch:
   push:
     tags:
-      - dropwizard-flyway-*
+      - dropwizard-liquibase-*
 jobs:
   release:
     uses: dropwizard/workflows/.github/workflows/release.yml@main
